@@ -1,0 +1,7 @@
+id = "ocean-dark-motifs"
+name = "Atomize"
+version = "0.0.1"
+schema_version = 1
+authors = ["Zhouyuxiang <1521350289@qq.com>"]
+description = "A detailed and accurate Atom One Dark theme"
+repository = "https://github.com/zhouyuxiang0/atomize.zed"
